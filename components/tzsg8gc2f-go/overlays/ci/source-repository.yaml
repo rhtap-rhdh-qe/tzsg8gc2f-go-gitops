@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tzsg8gc2f-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tzsg8gc2f-go
